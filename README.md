@@ -4,4 +4,4 @@ Este projeto é um simples app para cadastro e manutenção de tarefas. Consiste
 
 - [Frontend](https://github.com/alanlesc1/todoApp/tree/master/frontend): React com componentes funcionais, de classe e com o uso do Redux.
 
-![alt text](https://github.com/alanlesc1/todoApp/tree/master/frontend/public/screenshot.png)
+![alt text](https://github.com/alanlesc1/todoApp/blob/master/frontend/public/screenshot.png)
